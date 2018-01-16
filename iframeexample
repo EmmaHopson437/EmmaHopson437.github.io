@@ -1,0 +1,20 @@
+<!doctype html>
+
+<!-- Create an iframe for the ahs website below.-->
+
+<html>
+  
+	<head>
+	  
+    	<title>IFrames</title>
+    	
+  </head>
+  
+    <body>
+    	
+      <iframe width="200px" height="200px" src="http://littletonpublicschools.net/schools/arapahoe-high-school"></iframe>
+      
+    </body>
+    
+    
+</html>
