@@ -1,0 +1,29 @@
+
+#para1 {
+  color:red;
+  text-align: center;
+  border: 2px solid blue;
+}
+
+.para2 {
+  background-color:black;
+  color: white;
+  border: 2px solid red;
+  border-radius: 10px;
+}
+
+#para3 {
+  color:#ffcc00;
+}
+
+a {
+  text-decoration: normal;
+}
+
+a:visited {
+    Color:green;
+}
+
+a:hover {
+  color:orange;
+}
