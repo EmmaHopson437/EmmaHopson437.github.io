@@ -14,14 +14,14 @@
             function makeShapeAppear() {
                 //some variables
                 var top = Math.random() * 300;
-                var bottom = Math.random() * 600;
+                // var bottom = Math.random() * 600;
                 var left = Math.random() * 400;
-                var right = Math.random() * 400;
+                // var right = Math.random() * 400;
                 
                 document.getElementById("shape").style.top = top + "px";
-                document.getElementById("shape").style.bottom = bottom + "px";
+                //document.getElementById("shape").style.bottom = bottom + "px";
                 document.getElementById("shape").style.left = left + "px";
-                document.getElementById("shape").style.right = right + "px";
+                //document.getElementById("shape").style.right = right + "px";
                 
                 if (Math.random() > .5) {
                     
