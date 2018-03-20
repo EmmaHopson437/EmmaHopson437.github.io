@@ -1,0 +1,57 @@
+ h1 {
+      color:royalblue;
+    }
+    
+h5 {
+      color:cornflowerblue;
+    }
+    
+h3{
+      color:dodgerblue;
+    }
+    
+li {
+      color:deepskyblue;
+    }
+    
+#space {
+  color:aliceblue;
+}
+    
+    
+body{
+      background-color:aliceblue;
+      font-family:trebuchet MS;
+    }
+    
+.button {
+  background-color: lightsteelblue;
+  font-size: 16px;
+  border-radius:12px;
+  border: 2px solid aliceblue;
+  width: 33%;
+  float: left;
+}
+
+.homebutton{
+    background-color: lightsteelblue;
+  font-size: 16px;
+  border-radius:12px;
+  border: 2px solid aliceblue;
+  width: 33%;
+}
+
+#about {
+  font-size: 23px;
+  Color:dodgerblue;
+  
+}
+
+.info {
+  color:deepskyblue;
+}
+
+p {
+
+  color: deepskyblue;
+}
