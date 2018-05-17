@@ -1,0 +1,40 @@
+.button {
+  background-color: crimson;
+  font-size: 16px;
+  border-radius:12px;
+  border: 2px solid black;
+  width: 33%;
+  float: left;
+}
+
+body{
+      background-color:#000099;
+      font-family:Verdana;
+    }
+    
+.regular {
+
+  color: white;
+}
+
+.space {
+  color: #000099; 
+}
+
+h1{
+  text-align: center;
+  color:crimson;
+}
+
+h3{
+  color: white;
+}
+
+.header{
+  color:black;
+}
+
+
+<!--see if you can create an image to be the background of this. Something with stars and like a rocket or the earth -->
+<!--try to get all of the text to show up white-->
+<!--change the accordions so that they don't appear white. They are too bright right now-->
